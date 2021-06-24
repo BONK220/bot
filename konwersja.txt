@@ -1,0 +1,5 @@
+x = str(input("Podaj liczbe: ")) #podajesz liczbe w stringu
+y = int(str(x)) #konwersja na liczbę
+print(y) #wypisanie liczby na ekranie
+z = y * 2 #przykładowe działanie
+print(z) #wypisanie wyniku na ekranie
